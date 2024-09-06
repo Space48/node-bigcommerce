@@ -1,6 +1,6 @@
 {
   "name": "@space48/node-bigcommerce",
-  "version": "2.1.1-aplha",
+  "version": "2.1.2-alpha",
   "description": "A node module for authentication and use with the BigCommerce API",
   "main": "./lib/bigcommerce",
   "scripts": {
